@@ -1,6 +1,6 @@
 # QR-Code-Generator
 
-## This Mini Project is built by following Youtube Tutorial ([Coding Nepal](https://www.youtube.com/watch?v=pv5K28zVepE))
+## This Mini Project is built by following Youtube Tutorial [Coding Nepal](https://www.youtube.com/watch?v=pv5K28zVepE)
 
 ### Key Learnings
 * Generating the QR Code on the basis of user input from from the qrserver API
