@@ -19,4 +19,5 @@
 [Screenshot]: [[https://ibb.co/QbD1YBG](https://ibb.co/QbD1YBG)
 <img src="https://i.ibb.co/LkN29wf/27-05-2022-10-36-15-REC.png" alt="27-05-2022-10-36-15-REC" border="0">
 
-### https://sujayraj-boregouda.github.io/QR-Code-Generator/
+### Link
+https://sujayraj-boregouda.github.io/QR-Code-Generator/
