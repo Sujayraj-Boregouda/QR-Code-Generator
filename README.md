@@ -1,6 +1,6 @@
 # QR-Code-Generator
 
-## This Mini Project is built by following Youtube Tutorial [Coding Nepal]([Coding Nepal](https://www.youtube.com/watch?v=pv5K28zVepE))
+## This Mini Project is built by following Youtube Tutorial ([Coding Nepal](https://www.youtube.com/watch?v=pv5K28zVepE))
 
 ### Key Learnings
 * Generating the QR Code on the basis of user input from from the qrserver API
@@ -16,6 +16,7 @@
 * Colored QR Codes
 
 ### Screenshot
-[Screenshot]: [https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.pn](https://ibb.co/QbD1YBG)
+[Screenshot]: [[https://ibb.co/QbD1YBG](https://ibb.co/QbD1YBG)
+<img src="https://i.ibb.co/LkN29wf/27-05-2022-10-36-15-REC.png" alt="27-05-2022-10-36-15-REC" border="0">
 
-### Link https://sujayraj-boregouda.github.io/QR-Code-Generator/
+### https://sujayraj-boregouda.github.io/QR-Code-Generator/
